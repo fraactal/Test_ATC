@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Ejecucion Test" parallel="false">
+    <test name="Test Projects Selenuim Org (Driver en Ruta PC)">
+        <classes>
+            <class name="Test_Sitio"/>
+        </classes>
+    </test>
+    <test name="Test Projects Selenuim Org (Driver en Proyecto)">
+        <classes>
+            <class name="Test_Sitio_DriverIncluido"/>
+        </classes>
+    </test>
+</suite>
+
